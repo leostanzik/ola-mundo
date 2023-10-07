@@ -1,2 +1,3 @@
-# ola-mundo
- meu primeiro repositorio
+# Olá, mundo
+
+Aprendendo git e github com gustavoguanabara
